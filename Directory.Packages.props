@@ -479,29 +479,4 @@
     <PackageVersion Include="Asp.Versioning.Http" Version="8.1.0" />
     <PackageVersion Include="Asp.Versioning.Mvc.ApiExplorer" Version="8.1.0" />
   </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Alarm.MSBuild">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
-    <PackageReference Include="Nerdbank.GitVersioning">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
-  </ItemGroup>
-  <!-- Using conditions on ItemGroups don't usually work for non-SDK projects in Visual Studio. -->
-  <Choose>
-    <When Condition="EXISTS('$(MSBuildProjectDirectory)/Dockerfile')">
-      <ItemGroup Condition="'$(TargetFrameworkIdentifier)' != '.NETFramework'">
-        <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" />
-      </ItemGroup>
-    </When>
-  </Choose>
-  <Choose>
-    <When Condition="'$(IsTestProject)' == 'true'">
-      <ItemGroup>
-        <PackageReference Include="Microsoft.CodeCoverage" />
-      </ItemGroup>
-    </When>
-  </Choose>
 </Project>
