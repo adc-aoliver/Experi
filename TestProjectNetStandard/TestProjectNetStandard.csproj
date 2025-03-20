@@ -17,8 +17,6 @@
     <PackageReference Include="Antlr4.Runtime.Standard" />
     <PackageReference Include="Antlr4BuildTasks" />
     <PackageReference Include="Apache.NMS.AMQP" />
-    <PackageReference Include="Appium.WebDriver" />
-    <PackageReference Include="AspNet.ScriptManager.bootstrap" />
     <PackageReference Include="AspNet.ScriptManager.jQuery" />
     <PackageReference Include="AspNetCore.HealthChecks.Kafka" />
     <PackageReference Include="Atlassian.SDK" />
@@ -63,7 +61,6 @@
     <PackageReference Include="DotNet.Highcharts" />
     <PackageReference Include="DotNetSeleniumExtras.PageObjects" />
     <PackageReference Include="Dropbox.Api" />
-    <PackageReference Include="EntityFramework" />
     <PackageReference Include="EO.Pdf" />
     <PackageReference Include="EO.WebBrowser" />
     <PackageReference Include="Eyes.Appium" />
