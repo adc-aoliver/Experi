@@ -119,8 +119,6 @@
     <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Workspaces" />
     <PackageReference Include="Microsoft.CodeAnalysis.VisualBasic.Workspaces" />
     <PackageReference Include="Microsoft.CodeAnalysis.Workspaces.Common" />
-    <PackageReference Include="Microsoft.CodeAnalysis.Workspaces.MSBuild" />
-    <PackageReference Include="Microsoft.CodeCoverage" />
     <PackageReference Include="Microsoft.CognitiveServices.Speech" />
     <PackageReference Include="Microsoft.CSharp" />
     <PackageReference Include="Microsoft.Data.SqlClient" />
@@ -163,16 +161,12 @@
     <PackageReference Include="Microsoft.IdentityModel.Tokens" />
     <PackageReference Include="Microsoft.ML" />
     <PackageReference Include="Microsoft.ML.LightGbm" />
-    <PackageReference Include="Microsoft.NET.Build.Containers" />
     <PackageReference Include="Microsoft.OpenApi" />
     <PackageReference Include="Microsoft.OpenApi.Readers" />
-    <PackageReference Include="Microsoft.PowerShell.SDK" />
     <PackageReference Include="Microsoft.SqlServer.SqlManagementObjects" />
     <PackageReference Include="Microsoft.SqlServer.TransactSql.ScriptDom" />
-    <PackageReference Include="Microsoft.SqlServer.Types" />
     <PackageReference Include="Microsoft.TestPlatform" />
     <PackageReference Include="Microsoft.VisualBasic" />
-    <PackageReference Include="Microsoft.VisualStudio.SDK" />
     <PackageReference Include="Microsoft.Win32.Registry" />
     <PackageReference Include="Modernizr" />
     <PackageReference Include="Mono.Cecil" />
@@ -186,7 +180,6 @@
     <PackageReference Include="MSTest.TestAdapter" />
     <PackageReference Include="MSTest.TestFramework" />
     <PackageReference Include="MySql.Data" />
-    <PackageReference Include="NAudio" />
     <PackageReference Include="NaughtyStrings" />
     <PackageReference Include="NCrontab" />
     <PackageReference Include="NEST" />
@@ -223,7 +216,6 @@
     <PackageReference Include="Respond" />
     <PackageReference Include="RestSharp" />
     <PackageReference Include="RestSharp.Serializers.NewtonsoftJson" />
-    <PackageReference Include="Scintilla.NET" />
     <PackageReference Include="Selenium.Firefox.WebDriver" />
     <PackageReference Include="Selenium.Support" />
     <PackageReference Include="Selenium.WebDriver" />
@@ -317,7 +309,6 @@
     <PackageReference Include="Twilio.AspNet.Common" />
     <PackageReference Include="Unity" />
     <PackageReference Include="UTF.Unknown" />
-    <PackageReference Include="VPKSoft.ScintillaLexers.NET" />
     <PackageReference Include="WebGrease" />
     <PackageReference Include="WebMarkupMin.Core" />
     <PackageReference Include="WebSocket4Net" />
