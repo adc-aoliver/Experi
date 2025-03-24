@@ -12,49 +12,6 @@
     <PackageVersion Include="Accord.Neuro" Version="3.8.0" />
     <PackageVersion Include="Accord.Statistics" Version="3.8.0" />
     <PackageVersion Include="AdaptiveCards.Templating" Version="1.5.0" />
-    <PackageVersion Include="Alarm.Analyzers" Version="1.0.12" />
-    <PackageVersion Include="Alarm.AspNetCore.GrpcService" Version="5.1.0" />
-    <PackageVersion Include="Alarm.AspNetCore.MicroApi" Version="5.1.0" />
-    <PackageVersion Include="Alarm.AspNetCore.WebApi" Version="4.1.0" />
-    <PackageVersion Include="Alarm.CentralStation.Integrations.Clients.ATraq" Version="1.0.1" />
-    <PackageVersion Include="Alarm.CentralStation.Integrations.Clients.Patriot" Version="3.0.6" />
-    <PackageVersion Include="Alarm.Data.Abstractions" Version="1.4.0" />
-    <PackageVersion Include="Alarm.DeepMotionDetectionApi" Version="1.0.21" />
-    <PackageVersion Include="Alarm.Fedex.Auth" Version="1.0.1" />
-    <PackageVersion Include="Alarm.Fedex.Track" Version="1.0.2" />
-    <PackageVersion Include="Alarm.GitRepo" Version="2.2.3" />
-    <PackageVersion Include="Alarm.Globalization" Version="1.0.0" />
-    <PackageVersion Include="Alarm.H3" Version="1.0.1" />
-    <PackageVersion Include="Alarm.HealthChecks.Certificates" Version="2.0.0" />
-    <PackageVersion Include="Alarm.HealthChecks.SqlServer" Version="3.0.0" />
-    <PackageVersion Include="Alarm.OpenTelemetry" Version="1.0.0" />
-    <PackageVersion Include="Alarm.Intercom.ProtoDefinitions" Version="1.0.10" />
-    <PackageVersion Include="Alarm.KVS.Abstractions" Version="1.2.4" />
-    <PackageVersion Include="Alarm.KVS.Core" Version="1.2.18" />
-    <PackageVersion Include="Alarm.Logging.Abstractions" Version="6.0.0" />
-    <PackageVersion Include="Alarm.Microsoft.SqlServer.Types.BindingRedirectForcer" Version="1.1.2" />
-    <PackageVersion Include="Alarm.Mono.Cecil" Version="1.0.16-beta" />
-    <PackageVersion Include="Alarm.MSBuild" Version="3.1.3" />
-    <PackageVersion Include="Alarm.ProjectFileParser" Version="5.0.0" />
-    <PackageVersion Include="Alarm.ProjectFiltering" Version="1.0.4" />
-    <PackageVersion Include="Alarm.ProtobufDefinitions" Version="1.0.3" />
-    <PackageVersion Include="Alarm.RealPage.PointCentral.ServiceReference" Version="1.0.1" />
-    <PackageVersion Include="Alarm.RealPage.ServiceRequest.ServiceReference" Version="1.0.1" />
-    <PackageVersion Include="Alarm.RulesEngineLib" Version="1.0.4" />
-    <PackageVersion Include="Alarm.ServiceReferences.CanadaPost" Version="1.1.4" />
-    <PackageVersion Include="Alarm.ServiceReferences.MountainAlarm" Version="1.2.1" />
-    <PackageVersion Include="Alarm.ServiceReferences.Protection1" Version="1.1.1" />
-    <PackageVersion Include="Alarm.SolutionFileParser" Version="3.0.1" />
-    <PackageVersion Include="Alarm.SVM" Version="1.0.1" />
-    <PackageVersion Include="Alarm.TDigest" Version="1.0.6" />
-    <PackageVersion Include="Alarm.Threading.Abstractions" Version="2.0.0" />
-    <PackageVersion Include="Alarm.TrentonTech.ServiceReferences" Version="1.1.1" />
-    <PackageVersion Include="Alarm.UnitTest.UnitTestsJsonUtils" Version="2.2.3" />
-    <PackageVersion Include="Alarm.WebsiteStartEndRecorder" Version="2.7.1" />
-    <PackageVersion Include="Alarm.Ups.Auth" Version="1.0.0" />
-    <PackageVersion Include="Alarm.Ups.Tracking" Version="1.0.0" />
-    <PackageVersion Include="Alarm.Yardi" Version="1.2.1" />
-    <PackageVersion Include="Alarm.ZWaveBackupConversion.Utilities" Version="1.0.2" />
     <PackageVersion Include="Amazon.Lambda.Core" Version="2.1.0" />
     <PackageVersion Include="Amazon.Lambda.Serialization.SystemTextJson" Version="2.3.1" />
     <PackageVersion Include="Antlr" Version="3.5.0.2" />
