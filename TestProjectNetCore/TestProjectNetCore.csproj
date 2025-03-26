@@ -111,7 +111,6 @@
     <PackageReference Include="Microsoft.ApplicationInsights" />
     <PackageReference Include="Microsoft.AspNet.WebApi" />
     <PackageReference Include="Microsoft.AspNet.WebApi.Client" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" />
     <PackageReference Include="Microsoft.AspNetCore.Hosting.WindowsServices" />
     <PackageReference Include="Microsoft.AspNetCore.Http.Features" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" />
